@@ -1,2 +1,2 @@
 # url-shortner
-FIRST ONE
+**First Random Project for learning Purpose.!**
