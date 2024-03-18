@@ -3,6 +3,6 @@
 <br> <br>
 
 Usage: 
-* install Dependencies: python3 dependency.py
+* install Dependencies: python3 dependencies.py
 * run the tool: short_me.py https://example.com/Sahil-1337/
   
