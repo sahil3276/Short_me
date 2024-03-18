@@ -15,5 +15,4 @@ Usage:
 **Shortened URL**: https://tinyurl.com/26lojany
 
 Thank you for using the URL Shortener!
-Check out my GitHub repository: https://github.com/sahil3276
 
