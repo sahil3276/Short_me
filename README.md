@@ -6,9 +6,9 @@
 Usage: 
 * install Dependencies: python dependencies.py
 * run the tool: python short_me.py <br><br>
-================================= <br><br>
-🚀 Welcome to the URL Shortener by SAHIL! 🚀 <br><br>
-=================================
+====================== <br><br>
+🚀  URL Shortener by SAHIL! 🚀 <br><br>
+======================
 
 **Enter the URL to shorten:** https://github.com/sahil3276
 
